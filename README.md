@@ -1,5 +1,7 @@
 # ajax-cropper-image-laravel5.4
 
+## You Tube ==> https://youtu.be/NvpUhypU77g
+
 ## Blade Files
 ```
 Copy get-ajax-image-popup.blade and image.blade files in resources\views folder and paste in your resources\views folder
