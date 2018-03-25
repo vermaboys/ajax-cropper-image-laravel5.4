@@ -2,11 +2,11 @@
 
 ## Blade Files
 ```
-Copy get-ajax-image-popup.blade and image.blade files in resources\views and paste in your resources\views
+Copy get-ajax-image-popup.blade and image.blade files in resources\views folder and paste in your resources\views folder
 ```
 
 
-## Create Folder
+## Public Folder
 ```
 Create images folder in public folder
 
